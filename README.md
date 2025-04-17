@@ -1,5 +1,3 @@
-# 2
-Разработать собственные классы, реализующие структуру данных Очередь, средствами чистой Java
 package javaapplication5;
 public class JavaApplication5 {
     public static void main(String[] args) {
